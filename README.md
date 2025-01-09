@@ -93,6 +93,12 @@ En su interior se generan 4 vídeos:
 - [Vídeo procesado de la detección](https://alumnosulpgc-my.sharepoint.com/:v:/g/personal/juan_quesada108_alu_ulpgc_es/Ec17HcCaRFFEiXI5j8nFEQUBWuv0VMcx5xK6Y3OX95NlzQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=kDwGQk)
 - [Diagrama de la representación a 0.5x velocidad](https://alumnosulpgc-my.sharepoint.com/:v:/g/personal/juan_quesada108_alu_ulpgc_es/EdxcDdDCmo5KpUSQr6rkAgoBTyxp12L3xcQ4XTqpHxtr2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=KB9i0I)
 
+---
+
+<h3>Documentación adicional</h3>
+
+[Formato PDF](https://alumnosulpgc-my.sharepoint.com/:b:/g/personal/juan_quesada108_alu_ulpgc_es/ETiiz252PBJKmIK6wztwOgwBZpDt0gR-m9xXctWdX_V8Sg?e=xJcfZ5)
+
 
 
 
